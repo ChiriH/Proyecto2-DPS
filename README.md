@@ -10,4 +10,5 @@
 ## Video funcionamiento:
 
 - 📄 Video Google Drive - [Proyecto 2](https://drive.google.com/)
+- 📄 [Trello](https://trello.com/b/jaDpn3iW/mi-tablero-de-trello)
 
