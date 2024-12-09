@@ -48,7 +48,7 @@ const EventSearchScreen = ({ navigation }: any) => {
   const handleRSVP = async (eventId: string) => {
     const currentUser = auth().currentUser;
 
-    // Asegúrate de que currentUser exista antes de proceder
+    //  currentUser exista antes de proceder
     if (!currentUser) {
       Alert.alert('Error', 'No estás autenticado');
       return;
