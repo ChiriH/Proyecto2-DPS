@@ -15,8 +15,8 @@ Bajo los siguientes términos:
 ## Enlaces:
 
 - 📄 Video funcionamiento - [Proyecto 2](https://drive.google.com/file/d/1BCHebGp3LdLyc-aWGXNXJE7wed0KkxiL/view?usp=sharing)
-- 📝 [Trello](https://trello.com/b/jaDpn3iW/mi-tablero-de-trello)
-- 🌱 [Figma](https://www.figma.com/proto/0M8XHDrzxFznQYXQUPqszQ/Prototipos?node-id=6-1838)
+- 📝 Distribución y planteamineto de actividades - [Trello](https://trello.com/b/jaDpn3iW/mi-tablero-de-trello)
+- 🌱 Mockups del proyecto - [Figma](https://www.figma.com/proto/0M8XHDrzxFznQYXQUPqszQ/Prototipos?node-id=6-1838)
 
 ## Integrantes:
 
