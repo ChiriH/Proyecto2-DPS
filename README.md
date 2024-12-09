@@ -1,4 +1,4 @@
-## Desarrollo de Aplicaciones con tecnologías responsivas - DPS
+## Aplicación de Gestión de Eventos Comunitarios - DPS
 ### Diseño y Programación de Software Multiplataforma DPS941 G01
 
 - William Alberto García Gómez - GG212522
@@ -9,5 +9,5 @@
 
 ## Video funcionamiento:
 
-- 📄 Video Google Drive - [Proyecto 2](https://drive.google.com/file/d/18ZdtMzTsKPFmlMkoICj4iN8nGMdZwUdc/view?usp=sharing)
+- 📄 Video Google Drive - [Proyecto 2](https://drive.google.com/)
 
