@@ -11,5 +11,5 @@
 
 - 📄 Video Google Drive - [Proyecto 2](https://drive.google.com/file/d/1BCHebGp3LdLyc-aWGXNXJE7wed0KkxiL/view?usp=sharing)
 - 📄 [Trello](https://trello.com/b/jaDpn3iW/mi-tablero-de-trello)
-- 📄 [Figma](https://www.figma.com/design/0M8XHDrzxFznQYXQUPqszQ/Prototipos?node-id=0-1&t=8LM2YwavKzK9y7gL-1)
+- 📄 [Figma](https://www.figma.com/proto/0M8XHDrzxFznQYXQUPqszQ/Prototipos?node-id=6-1838)
 
