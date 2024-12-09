@@ -5,7 +5,7 @@ import { StatusBar } from 'expo-status-bar';
 import { useEffect } from 'react';
 import 'react-native-reanimated';
 
-import Routes from '../src/navigation/routes'; // Importa tu archivo de navegación principal
+import Routes from '../src/navigation/routes';  
 import { useColorScheme } from '@/hooks/useColorScheme';
 
 // Evitar que la pantalla de carga se oculte automáticamente antes de que se complete la carga
